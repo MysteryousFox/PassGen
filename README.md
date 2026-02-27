@@ -8,7 +8,7 @@ Made by @MysteryousFox
 
 ## Download
 
-[Download PassGen.exe](https://drive.google.com/file/d/1MlucQIWYUX7EH7U3G3RQfM9I6kczFbn_/view?usp=sharing)
+CHECK THE LAST UPDATE
 
 > On first launch Windows may show a SmartScreen warning — click **"More info" → "Run anyway"**.
 > This happens because the app is not code-signed.
